@@ -1,1 +1,1 @@
-Prvni domaci ukol, kurz Python pro Data Science, Czechitas.
+Domaci ukoly, kurz Python pro Data Science, Czechitas.
